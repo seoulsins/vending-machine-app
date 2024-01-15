@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a4d497e-ba21-4304-b57e-168a6f50e974" name="Changes" comment="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/view/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/view/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/view/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/view/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/view/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/view/Purchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techelevator/view/ProductListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techelevator/view/ProductListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techelevator/view/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techelevator/view/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/view/Change.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/view/Change.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/view/Inventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/view/Inventory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/view/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/view/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/view/ProductList$VendingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/view/ProductList$VendingMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/view/ProductList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/view/ProductList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/view/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/view/Purchase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techelevator/view/ProductListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techelevator/view/ProductListTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WpOrYZFqMDNL6Wkgny0pFZAcqP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/CityOfMon/Desktop/MERITAM/repos/module-1-capstone"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.techelevator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VendingMachineCLI">
+    <configuration name="VendingMachineCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.VendingMachineCLI" />
+      <module name="m01-capstone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01-capstone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.view" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.view.InventoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendingMachineCLI" />
+        <item itemvalue="JUnit.InventoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a4d497e-ba21-4304-b57e-168a6f50e974" name="Changes" comment="" />
+      <created>1697426255809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697426255809</updated>
+    </task>
+    <task id="LOCAL-00001" summary="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH">
+      <option name="closed" value="true" />
+      <created>1697450449784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697450449784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH">
+      <option name="closed" value="true" />
+      <created>1697452849180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697452849180</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH" />
+    <option name="LAST_COMMIT_MESSAGE" value="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH" />
+  </component>
+</project>
